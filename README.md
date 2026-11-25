@@ -90,7 +90,7 @@ ________________________________________
 
 
 •	MOTD banner display<br>
-<img width="1713" height="918" alt="image" src="https://github.com/user-attachments/assets/dc4bd38c-baff-4398-a5d3-0a69d4cc50e0" />
+<img width="1712" height="886" alt="image" src="https://github.com/user-attachments/assets/69ed86e1-e913-49fd-a440-b9e041a4e905" />
 
 •	Password prompts<br>
 <img width="1906" height="1012" alt="image" src="https://github.com/user-attachments/assets/2b999266-35d5-4121-ba9e-2a13516deeb4" />
