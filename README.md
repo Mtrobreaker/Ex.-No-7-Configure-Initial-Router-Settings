@@ -84,7 +84,8 @@ ________________________________________
 
 •	Running configuration before and after<br>
 <img width="1726" height="911" alt="image" src="https://github.com/user-attachments/assets/1c9d8bac-1e33-42a6-bce4-ecb71c5c06d3" />
-<img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/b1756649-3172-4b01-8fed-0b26dd921b90" />
+<img width="1715" height="886" alt="image" src="https://github.com/user-attachments/assets/05dd719b-4930-429b-9a36-2826650c42b9" />
+
 
 
 
