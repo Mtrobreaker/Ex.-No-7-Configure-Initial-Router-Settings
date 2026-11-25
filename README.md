@@ -97,7 +97,7 @@ ________________________________________
 
 
 •	Saved configuration in NVRAM and flash<br>
-<img width="1900" height="1023" alt="image" src="https://github.com/user-attachments/assets/830dd671-967a-412f-9f3d-63c562188e11" />
+<img width="1570" height="813" alt="image" src="https://github.com/user-attachments/assets/b813da5a-b95e-435a-a6d2-52622f60a173" />
 
 ________________________________________
 # Result
