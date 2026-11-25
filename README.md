@@ -93,7 +93,8 @@ ________________________________________
 <img width="1712" height="886" alt="image" src="https://github.com/user-attachments/assets/69ed86e1-e913-49fd-a440-b9e041a4e905" />
 
 •	Password prompts<br>
-<img width="1906" height="1012" alt="image" src="https://github.com/user-attachments/assets/2b999266-35d5-4121-ba9e-2a13516deeb4" />
+<img width="1588" height="815" alt="image" src="https://github.com/user-attachments/assets/74d7b740-c0a2-4d59-a6f4-41afac473d87" />
+
 
 •	Saved configuration in NVRAM and flash<br>
 <img width="1900" height="1023" alt="image" src="https://github.com/user-attachments/assets/830dd671-967a-412f-9f3d-63c562188e11" />
