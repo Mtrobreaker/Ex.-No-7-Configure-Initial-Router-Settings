@@ -80,7 +80,8 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
-<img width="803" height="419" alt="image" src="https://github.com/user-attachments/assets/9cac5240-2419-4fd9-a145-d94d184260e1" />
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/ab8bf08e-f45f-439a-990f-82573352f427" />
+
 
 •	Running configuration before and after<br>
 <img width="1726" height="911" alt="image" src="https://github.com/user-attachments/assets/1c9d8bac-1e33-42a6-bce4-ecb71c5c06d3" />
